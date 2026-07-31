@@ -1,4 +1,4 @@
-CXX ?= g++
+CXX ?= g++-13
 CXXFLAGS ?= -O2 -std=gnu++17 -pipe -Wall -Wextra -Wno-unused-result
 
 all: code
